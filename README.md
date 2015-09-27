@@ -1,2 +1,2 @@
 # FirstWorks
-Hear I showcase my first projects
+Here I showcase my first projects
